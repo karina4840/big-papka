@@ -1,0 +1,11 @@
+.Loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Loader-text{
+  color: white;
+  font-weight: bold;
+  font-size: 24px;
+}

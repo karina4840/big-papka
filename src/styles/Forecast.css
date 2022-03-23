@@ -1,0 +1,23 @@
+.Forecast__title {
+  font-size: 16px;
+  text-align: center;
+}
+
+.Forecast__weather-icon {
+  width: 60px;
+  height: 60px;
+}
+
+.Forecast__temperature {
+  display: flex;
+  justify-content: center;
+}
+
+.temperature__max {
+  margin-right: 8px;
+  color: #ec7729;
+}
+
+.temperature__min {
+  margin-left: 8px;
+}

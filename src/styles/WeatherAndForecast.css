@@ -1,0 +1,16 @@
+.WeatherAndForecast {
+  display: flex;
+  flex-direction: column;
+  color: #ffffff;
+  padding: 35px 50px;
+  background-color: #ffffff4b;
+  border-radius: 10px;
+}
+
+.WeatherAndForecast__container {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 30px;
+}
+
+

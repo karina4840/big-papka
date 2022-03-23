@@ -1,0 +1,42 @@
+.Weather {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 30px;
+}
+
+.Weather__info {
+  text-align: left;
+  display: flex;
+}
+
+.Weather__icon {
+  width: 100px;
+  height: 100px;
+}
+
+.Weather__list {
+  font-size: 14px;
+  list-style: none;
+  margin-left: 12px;
+}
+
+.list__temperature {
+  font-size: 38px;
+  margin-bottom: 10px;
+}
+
+.Weather__other-info {
+  text-align: right;
+}
+
+.other-info__city {
+  font-size: 22px;
+  color: #474543;
+  margin-bottom: 1rem;
+}
+
+.other-info__day,
+.other-info__description{
+  font-size: 16px;
+  font-weight: 400;
+}
