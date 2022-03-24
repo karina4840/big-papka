@@ -14,7 +14,10 @@
 - The app is written with **React** and **CSS**, and deployed with **Netlify**.
                                                     
 ### Preview
-<img src="https://github.com/karina4840/weather-app/blob/main/preview.gif?raw=true" width=500> <br>
+<div align="center">
+    <img src="https://github.com/karina4840/weather-app/blob/main/preview.gif?raw=true" width=500> <br>
+</div>
+
 
 <div align="center">
     2022 | <a href="https://github.com/karina4840"> karina4840 </a>
