@@ -4,7 +4,6 @@ import Weather from "./Weather";
 import Forecast from "./Forecast";
 
 import "../styles/WeatherAndForecast.css";
-import Graph from "./Graph";
 
 
 function WeatherAndForecast({ weatherInfo, location }) {
@@ -68,10 +67,6 @@ function WeatherAndForecast({ weatherInfo, location }) {
           weatherInfo={weatherInfo.daily[4]} 
           date={date[4]} 
         />
-      </div>
-      <div>
-        <Graph 
-        humidity = {weatherInfo.daily[0].humidity}/>
       </div>
     </div>
   );
