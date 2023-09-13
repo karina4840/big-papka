@@ -11,7 +11,7 @@
  
 ### Description
 - A weather app that allows users type a city into a sesrch field and get current weather and a forecast for the next 5 dsys.
-- The app is written with **React** and **CSS**, and deployed with **Netlify**.
+- The app is written with **React** and **CSS**.
                                                     
 ### Preview
 <div align="center">
